@@ -11,7 +11,18 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        fonte: "#4A2518",
+        vermelho: "#C4371E",
+        fundo: "#F3ECDE"
       },
+
+      backgroundImage: {
+        'hamburgui': "url('/src/assets/woper.png')"
+       },
+
+      fontFamily: {
+        normal: "--flameRegular"
+      }
     },
   },
   plugins: [],

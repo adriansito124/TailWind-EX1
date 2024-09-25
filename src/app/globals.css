@@ -1,0 +1,18 @@
+
+:root {
+  --fundo: #F3ECDE;
+  --fonte: #4A2518;
+  --vermelho: #4A2518;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--fundo);
+}
+
+header{
+  
+}
+
